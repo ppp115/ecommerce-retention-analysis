@@ -22,3 +22,4 @@
 *   `metrics.sql`：核心指标计算 SQL 代码
 *   `03_visualization.py`：数据可视化脚本
 *   `user_repurchase_chart.png`：最终生成的图表
+*   `ecommerce_data.csv`：项目使用的电商行为模拟源数据
