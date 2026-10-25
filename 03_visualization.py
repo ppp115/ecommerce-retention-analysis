@@ -21,7 +21,7 @@ type_counts = df['user_type'].value_counts()
 
 # 4. 画图
 plt.figure(figsize=(8, 5))
-# 解决中文显示问题（如果你电脑没装中文字体，图表可能会显示方块，但图形是对的）
+# 解决中文显示问题
 plt.rcParams['font.sans-serif'] = ['SimHei']  
 plt.rcParams['axes.unicode_minus'] = False
 
